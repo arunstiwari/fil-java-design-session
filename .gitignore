@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
+https://github.com/arunstiwari/fil-java-design-session.git
+
 ### STS ###
 .apt_generated
 .classpath
